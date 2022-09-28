@@ -6,7 +6,7 @@ AWS IoT FleetWise는 near realtime으로 vehicle의 데이터를 수집하고 �
 
 활용 케이스는 아래와 같습니다. 
 
-![image](https://user-images.githubusercontent.com/52392004/192661033-32cf5050-3e0b-4728-b3c6-1c6a4fe00324.png)
+<img width="800" alt="image" src="[https://user-images.githubusercontent.com/52392004/184735485-8a7d1a26-cef5-4df2-ae3b-96908c001b7e.png](https://user-images.githubusercontent.com/52392004/192661033-32cf5050-3e0b-4728-b3c6-1c6a4fe00324.png)">
 
 
 ## FeetWise AWS CLI and AWS SDK
